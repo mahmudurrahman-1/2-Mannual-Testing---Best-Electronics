@@ -1,10 +1,8 @@
-# Rokomari Mobile testing
+# Best Electronics Mannual testing
 
-- Mannual Mobile Test
+## Goal of Testing Electronics
 
-## Goal of Testing Rokomari
-
-The key concept testing rokomari is to ensure that the application is error free and it is working in conformance to the specified functional requirements.
+The key concept testing Electronics is to ensure that the application is error free and it is working in conformance to the specified functional requirements.
 
 ## Perform Mannual Test
 
